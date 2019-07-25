@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/01 18:12:38.000.684,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 08:12:02.000.256,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/25 09:31:35.676,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/25 10:26:49.306,C:\Users\Arthur\OneDrive\Delphi- NoteBook\006_Salvar_e_Carregar\ufrm_Salvar_Gravar.dfm=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/25 10:26:49.306,C:\Users\Arthur\OneDrive\Delphi- NoteBook\006_Salvar_e_Carregar\ufrm_Salvar_Gravar.pas=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/25 10:26:58.471,C:\Users\Arthur\OneDrive\Delphi- NoteBook\006_Salvar_e_Carregar\Salvar_carregar.dproj=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
